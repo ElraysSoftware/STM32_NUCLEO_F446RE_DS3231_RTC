@@ -2,7 +2,7 @@
 ![logo](images/ElraysSoftware-Logo.png)
 
 ## STM32_NUCLEO_F446RE_DS3231_RTC
-https://github.com/OpenAKM/AKM_Endpoint.wiki.gitDS3231 Real-Time Clock Example running on a STM32 Nucleo F44RE Board<br />
+DS3231 Real-Time Clock Example running on a STM32 Nucleo F44RE Board<br />
 ![board]<images/STM32-Nucleo-F446RE-Board.jpg>
 
 ## Hardware
