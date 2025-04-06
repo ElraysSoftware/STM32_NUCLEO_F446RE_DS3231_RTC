@@ -63,5 +63,13 @@ PC5 | TX
 * The serial menu is used to test and operate the DS3231.
 * Two instances of Tera Term or PuTTY are opened, one for each RS-232 connection.
 
+## References
+DS3231 Data Sheet<br />
+https://www.analog.com/media/en/technical-documentation/data-sheets/ds3231.pdf<br />
+
+eepj's GitHub Repository for DS3231<br />
+https://github.com/eepj/stm32-ds3231
+
+
  
 
