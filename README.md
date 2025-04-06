@@ -38,3 +38,10 @@ PC9 | SCA<br />
 PA8 | SCL<br />
 PB0 | SOW
 
+**F446RE Pin** | **MAX3232 Pin**
+---------------|----------------
+5V | VCC<br />
+GND | GND<br />
+PB10 | RX<br />
+PC5 | TX
+
