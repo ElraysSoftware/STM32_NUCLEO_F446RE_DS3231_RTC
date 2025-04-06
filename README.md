@@ -31,6 +31,10 @@ https://www.amazon.com/Serial-Adapter-Chipset-Supports-Windows/dp/B017D51ZRQ/ref
 STM32 CubeIDE Version 1.18.0 or newer<br />
 https://www.st.com/en/development-tools/stm32cubeide.html
 
+Tera Term 4.107 or PuTTY 0.80 (Serial Terminal Emulator)
+https://github.com/TeraTermProject/teraterm/releases
+https://www.chiark.greenend.org.uk/~sgtatham/putty/
+
 ## Pinouts
 ![pinout](images/IOC_Pinouts.png)
 **F446RE Pin** | **DS3231 Pin**
@@ -57,6 +61,7 @@ PC5 | TX
 * The USB to RS-232 Converter cable is connected to the MAX3232 and the PC.
 * The DS3231 chip is connected to I2C3.
 * The serial menu is used to test and operate the DS3231.
+* Two instances of Tera Term or PuTTY are opened, one for each RS-232 connection.
 
  
 
