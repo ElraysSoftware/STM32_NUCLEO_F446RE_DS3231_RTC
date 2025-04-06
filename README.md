@@ -3,7 +3,7 @@
 
 ## STM32_NUCLEO_F446RE_DS3231_RTC
 DS3231 Real-Time Clock Example running on a STM32 Nucleo F44RE Board<br />
-![board]<images/STM32-Nucleo-F446RE-Board.jpg>
+![board](images/STM32-Nucleo-F446RE-Board.jpg)
 
 ## Hardware
 STM32 Nucleo F446RE Board<br />
@@ -29,5 +29,5 @@ STM32 CubeIDE Version 1.18.0 or newer<br />
 https://www.st.com/en/development-tools/stm32cubeide.html
 
 ## Pinouts
-![pinout]<images/IOC_Pinouts.png>
+![pinout](images/IOC_Pinouts.png)
 
