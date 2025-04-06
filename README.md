@@ -18,7 +18,7 @@ https://www.amazon.com/s?k=ds3231+rtc+module&crid=EIEIQ8HMZA46&sprefix=DS3231%2C
 Breadboard Jumper Wires<br />
 https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?crid=2IVAP6IRRB2XB&dib=eyJ2IjoiMSJ9.9LdBtSOJTNABI74XKEk3MWXgyBTr1lFwCfxKWljdCE-_aCgp87sVh2sgo-OmBKlmECSN06_TuOxyNfcp4V7b-UiukcGlMwCJ1kTVneCSmEHbWXudP61P5lTk_roq-skHpmf6z7XFgc09C8Kft2UJllIdYH-78XXSgUXFg7NV344sUOs0dvhlCOZugXw8OGL0K2vdHKUTD4p9m4P3yYONhf3ztH4o7BHKTg4ogpwuSEY.2M6Ogq8b49RfpmzRZ5jIMNKXqtBA-EmgYhu_BhOAQjE&dib_tag=se&keywords=breadboard%2Bjumper%2Bwires&qid=1743968336&sprefix=breadboard%2Bju%2Caps%2C228&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
-Coin Battery 2032 for DS3232 RTC Module
+Coin Battery 2032 for DS3232 RTC Module<br />
 https://www.amazon.com/Duracell-Lithium-Battery-Features-Glucose/dp/B0855FD9P2/ref=sr_1_6_pp?crid=1SR0NP33K7VLY&dib=eyJ2IjoiMSJ9.QPP7KjsXPMukyzX-V-qBmKBx2tAe0C0Um_EM4Mwnt7tRGIJkUWXHkG9vYD4qMB5aeaIYOsj03hBxcePWuQoaGljXruT3LAaChpZKb30XqoFVVFzFVeKet660xTBQR-nMnEqY051OzAlkbZ2zh2vz7mpleT2ACi0dCHXAKiTLNtWA2Hz3MJUvApIYBrXNrZuud8L5gAchrK-1uHXOIJhqCZ3Igao-PBYZP8OERwLLODvvA3LCRvlwlIJ1bF4PgHO_nhN1KIUF4Bowvu2HI5Suqq96hPTN3XX8AduEwtr97X8.9nDXai1A4n8HzhzpLMpuQezFwgnDPR1MDBFc4fPsY4A&dib_tag=se&keywords=2032+battery&qid=1743972047&sprefix=2032%2Caps%2C262&sr=8-6
 
 MAX3232 RS-232 to TTL Converter<br />
