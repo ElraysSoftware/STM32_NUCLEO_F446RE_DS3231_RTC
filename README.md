@@ -31,7 +31,7 @@ https://www.amazon.com/Serial-Adapter-Chipset-Supports-Windows/dp/B017D51ZRQ/ref
 STM32 CubeIDE Version 1.18.0 or newer<br />
 https://www.st.com/en/development-tools/stm32cubeide.html
 
-Tera Term 4.107 or PuTTY 0.80 (Serial Terminal Emulator)
+Tera Term 4.107 or PuTTY 0.80 (Serial Terminal Emulator)<br />
 https://github.com/TeraTermProject/teraterm/releases
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
