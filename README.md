@@ -43,7 +43,7 @@ GND | GND<br />
 3.3V | VCC<br />
 PC9 | SCA<br />
 PA8 | SCL<br />
-PB0 | SOW
+PB0 | SQW
 
 **F446RE Pin** | **MAX3232 Pin**
 ---------------|----------------
