@@ -30,4 +30,10 @@ https://www.st.com/en/development-tools/stm32cubeide.html
 
 ## Pinouts
 ![pinout](images/IOC_Pinouts.png)
+**F446RE Pin** | **DS3231 Pin**
+GND | GND<br />
+3.3V | VCC<br />
+PC9 | SCA<br />
+PA8 | SCL<br />
+PB0 | SOW
 
