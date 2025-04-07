@@ -1,5 +1,5 @@
-# OpenAKM's Contributor Covenant Code of Conduct
-![logo](images/OpenAKM-Logo.jpg)
+# Elray's Software Contributor Covenant Code of Conduct
+![logo](images/ElraysSoftware-Logo.png)
 
 ## Our Pledge
 
