@@ -3,5 +3,5 @@
 
 ## Contributing
 - We welcome contributors at all levels.
-- Potential contributors would are welcome to contact elrays@sbcglobal.net to see how they can help.
+- Potential contributors are welcome to contact elrays@sbcglobal.net to see how they can help.
 
