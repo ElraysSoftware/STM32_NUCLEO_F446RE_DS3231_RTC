@@ -6,4 +6,4 @@ This repository has not been formally released. The main branch contains the lat
 
 ## Reporting a Vulnerability
 Report security concerns to elrays@sbcglobal.net.
-Be patient. I may not respond immediately.
+Be patient. It may take some time to ger a response.
