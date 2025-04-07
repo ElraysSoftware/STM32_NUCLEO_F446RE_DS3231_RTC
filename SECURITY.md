@@ -1,10 +1,9 @@
-# AKM Cyber Corp Security Policy
-![logo](images/AKMCyberLogo.png)
+# Elray's Software Security Policy
+![logo](images/ElraysSoftware-Logo.png)
 
 ## Supported Versions
-Currently no versions of AKM have been released.
+This repository has not been formally released. The main branch contains the latest.
 
 ## Reporting a Vulnerability
-
-Report security concerns to bart@akmcyber.com
-Be patient. Bart may not respond immediately.
+Report security concerns to elrays@sbcglobal.net.
+Be patient. I may not respond immediately.
